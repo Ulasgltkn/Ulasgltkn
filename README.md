@@ -5,6 +5,9 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhpd2YwYzh4ZmJyOXRxd3FseHQwa2x5dHV3OWJ0YTE2ZXlqOHBleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 </p>
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRqYTUwZmE0dGwzN2d1OG9rNnZweXk5d211ZW16MWNxcmFvNjh2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TkDNFeZRzYyFjHsLxP/giphy.gif">
+</p>
 
 - 🌱 I’m currently learning **Java, Spring, React-JS**
 
